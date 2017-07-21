@@ -1,0 +1,37 @@
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="45.8px" height="228.5px" viewBox="0 0 45.8 228.5"
+	 style="overflow:scroll;enable-background:new 0 0 45.8 228.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#XMLID_5_);stroke-width:1.0626;stroke-miterlimit:10;}
+	.st1{opacity:0.8;fill:url(#XMLID_6_);}
+	.st2{opacity:0.8;fill:url(#XMLID_7_);}
+	.st3{fill:none;stroke:url(#XMLID_8_);stroke-width:1.0626;stroke-miterlimit:10;}
+	.st4{opacity:0.8;fill:url(#XMLID_9_);}
+	.st5{opacity:0.8;fill:url(#XMLID_10_);}
+</style>
+<defs>
+</defs>
+<linearGradient id="XMLID_5_" gradientUnits="userSpaceOnUse" x1="571.1614" y1="116.7908" x2="616.9192" y2="116.7908" gradientTransform="matrix(-1 0 0 1 616.9192 0)">
+	<stop  offset="0.1678" style="stop-color:#F18A21"/>
+	<stop  offset="1" style="stop-color:#F05A28"/>
+</linearGradient>
+<polyline id="XMLID_4_" class="st0" points="45.8,228 0.7,228 0.5,5.6 39.9,5.8 "/>
+<g id="XMLID_1_">
+	
+		<linearGradient id="XMLID_6_" gradientUnits="userSpaceOnUse" x1="1231.3651" y1="416.2171" x2="1242.1373" y2="416.2171" gradientTransform="matrix(-4.489700e-11 1 1 4.489700e-11 -377.6728 -1231.3651)">
+		<stop  offset="0.1678" style="stop-color:#F18A21"/>
+		<stop  offset="1" style="stop-color:#F05A28"/>
+	</linearGradient>
+	<path id="XMLID_3_" class="st1" d="M34.5,0.1c-0.3-0.2-0.4,0-0.2,0.2L38,4.8c0.2,0.3,0.2,0.8,0,1l-3.7,4.6
+		c-0.2,0.3-0.1,0.4,0.2,0.2l8.2-5c0.3-0.2,0.3-0.4,0-0.6L34.5,0.1z"/>
+	
+		<linearGradient id="XMLID_7_" gradientUnits="userSpaceOnUse" x1="1232.4424" y1="416.8539" x2="1241.0602" y2="416.8539" gradientTransform="matrix(-4.489700e-11 1 1 4.489700e-11 -377.6728 -1231.3651)">
+		<stop  offset="0.1678" style="stop-color:#F18A21"/>
+		<stop  offset="1" style="stop-color:#F05A28"/>
+	</linearGradient>
+	<path id="XMLID_2_" class="st2" d="M35.9,1.1c-0.3-0.1-0.3,0-0.1,0.2l3,3.6c0.2,0.2,0.2,0.6,0,0.8l-3,3.7c-0.2,0.2-0.1,0.3,0.2,0.2
+		l6.6-4c0.3-0.1,0.3-0.3,0-0.4L35.9,1.1z"/>
+</g>
+</svg>

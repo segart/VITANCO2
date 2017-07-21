@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		id        = "com.segart.vitanco"
+		versionCode="0.1"
+		version   = "0.2">
+		<name>Vitanco</name>
+		<description>
+Farmasa		</description>
+		<author href="www.segart.com" email="sergio@segart.com">
+Segart
+		</author>
+		<preference name="phonegap-version" value="3.6.3" />
+		<preference name="orientation" value="landscape" />
+		<preference name="fullscreen" value="true" />
+		<preference name="target-device" value="tablet" />
+		<preference name="webviewbounce" value="false" />
+		<preference name="prerendered-icon" value="true" />
+		<preference name="stay-in-webview" value="true" />
+		<preference name="ios-statusbarstyle" value="black-transparent" />
+		<preference name="detect-data-types" value="true" />
+		<preference name="exit-on-suspend" value="true" />
+		<preference name="show-splash-screen-spinner" value="true" />
+		<preference name="auto-hide-splash-screen" value="true" />
+		<preference name="EnableViewportScale" value="false" />
+		<preference name="MediaPlaybackRequiresUserAction" value="false" />
+		<preference name="AllowInlineMediaPlayback" value="true" />
+		<preference name="BackupWebStorage" value="local" />
+		<preference name="TopActivityIndicator" value="white" />
+		<preference name="KeyboardDisplayRequiresUserAction" value="true" />
+		<preference name="HideKeyboardFormAccessoryBar" value="true" />
+		<preference name="SuppressesIncrementalRendering" value="true" />
+		<preference name="android-minSdkVersion" value="7" />
+		<preference name="android-installLocation" value="internalOnly" />
+		<preference name="SplashScreenDelay" value="5000" />
+		<preference name="ErrorUrl" value=""/>
+		<preference name="BackgroundColor" value="0x000000"/>
+		<preference name="KeepRunning" value="true"/>
+		<preference name="DisallowOverscroll" value="true"/>
+		<preference name="LoadingDialog" value=","/> 
+		<preference name="LoadUrlTimeoutValue" value="20000" />
+		<preference name="disable-cursor" value="false" />
+		<gap:platform name="android" />
+		<feature name="http://api.phonegap.com/1.0/battery"/>
+		<feature name="http://api.phonegap.com/1.0/camera"/>
+		<feature name="http://api.phonegap.com/1.0/contacts"/>
+		<feature name="http://api.phonegap.com/1.0/file"/>
+		<feature name="http://api.phonegap.com/1.0/geolocation"/>
+		<feature name="http://api.phonegap.com/1.0/media"/>
+		<feature name="http://api.phonegap.com/1.0/network"/>
+		<feature name="http://api.phonegap.com/1.0/notification"/>
+		<feature name="http://api.phonegap.com/1.0/camera"/>
+		<feature name="http://api.phonegap.com/1.0/contacts"/>
+		<feature name="http://api.phonegap.com/1.0/geolocation"/>
+		<feature name="http://api.phonegap.com/1.0/media"/>
+		<feature name="http://api.phonegap.com/1.0/network"/>
+		<icon src="36x36.png" gap:platform="android" gap:density="ldpi" />
+		<icon src="48x48.png" gap:platform="android" gap:density="mdpi" />
+		<icon src="72x72.png" gap:platform="android" gap:density="hdpi" />
+		<icon src="96x96.png" gap:platform="android" gap:density="xhdpi" />
+		<icon src="144x144.png" gap:platform="android" gap:density="xxhdpi" />
+		<icon src="192x192.png" gap:platform="android" gap:density="xxxhdpi" />
+		<icon src="icon.png" />
+		<gap:splash src="1024x768.png" gap:platform="android" gap:density="ldpi" />
+		<gap:splash src="1024x768.png" gap:platform="android" gap:density="mdpi" />
+		<gap:splash src="1024x768.png" gap:platform="android" gap:density="hdpi" />
+		<gap:splash src="1024x768.png" gap:platform="android" gap:density="xhdpi" />
+		<gap:splash src="1024x768.png" gap:platform="android" gap:density="xxhdpi" />
+		<access origin="tel:*" />
+		<access origin="geo:*" />
+		<access origin="mailto:*" />
+		<access origin="sms:*" />
+		<access origin="market:*" />
+	</widget>

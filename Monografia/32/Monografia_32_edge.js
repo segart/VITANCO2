@@ -1,0 +1,15 @@
+
+(function(compId){var _=null,y=true,n=false,x1='6.0.0',x3='6.0.0.400',x2='5.0.0',x5='rgba(0,0,0,0)',g='image',x4='both',cl='clip',e15='${linea3}',e18='${Pasted3}',o='opacity',x14='rgba(255,255,255,1)',e17='${Pasted2}',tp='top',x16='rect(@@0@@px @@1@@px @@2@@px @@3@@px)';var g11='linea3.svg',g6='barra_inferior.png',g12='Pasted2.svg',g8='btn_back.png',g7='btn_next.png',g10='btn_contenido.png',g9='btn_inicio.png',g13='Pasted3.svg';var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:x4,cg:x4,rI:n,cn:{dom:[{id:'barra_inferior',t:g,r:['0px','603px','1024px','166px','auto','auto'],f:[x5,im+g6,'0px','0px']},{id:'btn_next',t:g,r:['924px','324px','78px','78px','auto','auto'],f:[x5,im+g7,'0px','0px']},{id:'btn_back',t:g,r:['33px','324px','78px','78px','auto','auto'],f:[x5,im+g8,'0px','0px']},{id:'btn_inicio',t:g,r:['514px','693px','125px','30px','auto','auto'],f:[x5,im+g9,'0px','0px']},{id:'btn_contenido',t:g,r:['708px','693px','125px','30px','auto','auto'],f:[x5,im+g10,'0px','0px']},{id:'linea3',t:g,r:['124px','63px','776px','4px','auto','auto'],f:[x5,im+g11,'0px','0px']},{id:'Pasted2',t:g,r:['124px','50px','391px','29px','auto','auto'],cl:'rect(20.132080078125px 391px 29px 0px)',o:'0',f:[x5,im+g12,'0px','0px']},{id:'Pasted3',t:g,r:['128px','64px','771px','527px','auto','auto'],cl:'rect(0px 771px 2.1923828125px 0px)',o:'0',f:[x5,im+g13,'0px','0px']}],style:{'${Stage}':{isStage:true,r:['null','null','1024px','768px','auto','auto'],overflow:'hidden',f:[x14]}}},tt:{d:2335,a:y,data:[["eid21",cl,250,750,"easeOutQuad",e15,[0,-0.1904296875,4,0],[0,776,4,0],{vt:x16}],["eid40",tp,1000,680,"linear",e17,'50px','31px'],["eid48",cl,1680,655,"linear",e18,[0,771,2.1923828125,0],[0,771,527,0],{vt:x16}],["eid42",cl,1000,680,"linear",e17,[20.132080078125,391,29,0],[0,391,29,0],{vt:x16}],["eid38",o,1000,680,"linear",e17,'0','1'],["eid46",tp,1680,655,"linear",e18,'64px','85px'],["eid44",o,1680,655,"linear",e18,'0','1'],["eid22",o,250,750,"easeOutQuad",e15,'0','1']]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-602501467");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${btn_next}","click",function(sym,e){window.open("../33/Monografia_33.html","_self");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${btn_back}","click",function(sym,e){window.open("../31/Monografia_31.html","_self");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${btn_inicio}","click",function(sym,e){window.open("../../Vitanco_APP_Home.html","_self");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${btn_contenido}","click",function(sym,e){window.open("../Contenido/Monografia_Contenido.html","_self");});
+//Edge binding end
+})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-602501467");
